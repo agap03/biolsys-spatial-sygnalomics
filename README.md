@@ -1,6 +1,4 @@
-# Projekt2
-
-# Projekt zaliczeniowy z analizy danych czasoprzestrzennych
+# Projekt zaliczeniowy z analizy danych czasoprzestrzennych - Biologia Systemów 2024/25
 
 W repozytorium znajduje się kilka plików:
 
